@@ -1,0 +1,2 @@
+2026-04-22 21:47:13,765 - INFO - Placing order: BTCUSDT BUY MARKET 0.001 None
+2026-04-22 21:47:13,766 - INFO - Order Success: {'orderId': 123456, 'status': 'FILLED', 'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'executedQty': 0.001, 'avgPrice': 'simulated_market_price'}
